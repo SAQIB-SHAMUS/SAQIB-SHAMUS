@@ -1,11 +1,13 @@
 # 🚀 Saqib Shamus
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+useful+things.;Exploring+systems+and+automation.;Loving+clean+code+and+weird+problems." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+useful+things.;Exploring+systems+and+automation.;Solving+real+problems+with+code." alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <a href="https://github.com/SAQIB-SHAMUS"><img src="https://img.shields.io/badge/GitHub-SAQIB--SHAMUS-181717?logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/SAQIB-SHAMUS">
+    <img src="https://img.shields.io/badge/GitHub-SAQIB--SHAMUS-181717?logo=github&logoColor=white" alt="GitHub">
+  </a>
   <img src="https://img.shields.io/badge/Focus-Software+Engineering-4A90E2" alt="Focus">
   <img src="https://img.shields.io/badge/Mode-Open+Source-34D399" alt="Mode">
 </div>
@@ -14,14 +16,14 @@
 
 ## 👋 About Me
 
-I build software with a bias toward practicality: tools that solve real problems, interfaces that feel natural, and systems that are useful without being overengineered.
+I’m a software developer who enjoys building practical tools, experimenting with systems, and solving real-world engineering problems with clean and reliable code.
 
-I enjoy working across the stack, learning by building, and contributing to projects that help people move faster and think more clearly.
+I like working across the stack, learning by doing, and turning ideas into useful software that actually helps people.
 
-- 🔧 Building practical tools and developer utilities
-- 🧠 Exploring system design, automation, and cloud concepts
+- 🔧 Building developer tools and practical applications
+- 🧠 Exploring automation, architecture, and system design
 - 🔐 Interested in security, file analysis, and hands-on engineering
-- 🤝 Open to collaboration and meaningful software work
+- 🤝 Open to meaningful collaborations and projects with real impact
 
 ---
 
@@ -55,13 +57,13 @@ I enjoy working across the stack, learning by building, and contributing to proj
 
 ---
 
-## 🌟 Featured Work
+## 🌟 Featured Project
 
 ### [NXFileForensics](https://github.com/SAQIB-SHAMUS/NXFileForensics-Offline-File-Investigator)
 
-An offline, zero-dependency CLI for investigating files on your machine. It checks file types, finds duplicates, spots encrypted content, extracts strings, and compares files byte-by-byte — all locally, without relying on a network connection.
+An offline, zero-dependency CLI for analyzing files locally. It can inspect file types, detect duplicate content, spot encrypted or unusual data, extract readable strings, and compare files byte-by-byte without requiring a network connection.
 
-**Tech Stack:** Go | CLI | File Forensics | Zero Dependencies
+**Tech Stack:** Go | CLI | File Analysis | Security Tools
 
 ---
 
@@ -76,18 +78,17 @@ An offline, zero-dependency CLI for investigating files on your machine. It chec
 
 ## 🔥 Current Focus
 
-- Building tools that are useful, fast, and honest
+- Building useful software and developer tools
 - Improving practical engineering skills through real projects
-- Learning more about system design and cloud-native patterns
-- Exploring security, forensics, and automation workflows
+- Learning more about cloud systems, architecture, and automation
+- Exploring security, forensics, and reliable system design
 
 ---
 
 ## 🤝 Connect
 
 - GitHub: [@SAQIB-SHAMUS](https://github.com/SAQIB-SHAMUS)
-- Open to collaboration, software discussions, and building interesting things
-- If you are working on something useful, I am always interested in a conversation
+- Open to collaborations, technical discussions, and meaningful software work
 
 ---
 
