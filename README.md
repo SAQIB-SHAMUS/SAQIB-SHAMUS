@@ -1,31 +1,31 @@
-# 👋 Welcome to My GitHub Profile
+# 🚀 Saqib Shamus
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+useful+things.;Exploring+systems+and+automation.;Loving+clean+code+and+weird+problems." alt="Typing animation" />
+</p>
 
 <div align="center">
-  <h2>🚀 Saqib Shamus | Full-Stack Developer & Open Source Enthusiast</h2>
-  <p>
-    <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
-  </p>
+  <a href="https://github.com/SAQIB-SHAMUS"><img src="https://img.shields.io/badge/GitHub-SAQIB--SHAMUS-181717?logo=github&logoColor=white" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/Focus-Software+Engineering-4A90E2" alt="Focus">
+  <img src="https://img.shields.io/badge/Mode-Open+Source-34D399" alt="Mode">
 </div>
 
 ---
 
-## 🎯 About Me
+## 👋 About Me
 
-I'm a passionate **full-stack developer** with expertise in building scalable applications and open-source tools. I love solving complex problems, contributing to the community, and continuously learning new technologies. Currently working on **NXFileForensics** — an offline file investigation CLI tool.
+I build software with a bias toward practicality: tools that solve real problems, interfaces that feel natural, and systems that are useful without being overengineered.
 
-- 🔭 **Currently Working On:** Building innovative CLI tools and web applications
-- 🌱 **Currently Learning:** Advanced System Design, Kubernetes, and Cloud Architecture
-- 👯 **Looking to Collaborate On:** Open source projects, security tools, and developer utilities
-- 💬 **Ask Me About:** Web Development, CLI Tools, File Systems, Security
-- 📫 **Reach Me:** [Your Email] | [Your LinkedIn]
-- ⚡ **Fun Fact:** I love reverse engineering and cybersecurity!
+I enjoy working across the stack, learning by building, and contributing to projects that help people move faster and think more clearly.
+
+- 🔧 Building practical tools and developer utilities
+- 🧠 Exploring system design, automation, and cloud concepts
+- 🔐 Interested in security, file analysis, and hands-on engineering
+- 🤝 Open to collaboration and meaningful software work
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -40,14 +40,14 @@ I'm a passionate **full-stack developer** with expertise in building scalable ap
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-### Backend & Databases
+### Backend & Data
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Tools & DevOps
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -55,7 +55,17 @@ I'm a passionate **full-stack developer** with expertise in building scalable ap
 
 ---
 
-## 📊 GitHub Statistics
+## 🌟 Featured Work
+
+### [NXFileForensics](https://github.com/SAQIB-SHAMUS/NXFileForensics-Offline-File-Investigator)
+
+An offline, zero-dependency CLI for investigating files on your machine. It checks file types, finds duplicates, spots encrypted content, extracts strings, and compares files byte-by-byte — all locally, without relying on a network connection.
+
+**Tech Stack:** Go | CLI | File Forensics | Zero Dependencies
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAQIB-SHAMUS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
@@ -64,42 +74,20 @@ I'm a passionate **full-stack developer** with expertise in building scalable ap
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Current Focus
 
-### 🔍 [NXFileForensics](https://github.com/SAQIB-SHAMUS/NXFileForensics-Offline-File-Investigator)
-An offline, zero-dependency CLI for investigating files on your machine. Check file types, find duplicates, spot encrypted content, extract strings, and diff files byte-by-byte — all locally, no network calls.
-
-**Tech Stack:** Go | CLI | File Forensics | Zero Dependencies
-
----
-
-## 💡 Latest Activity
-
-- 🎉 Created **NXFileForensics** — an advanced file investigation tool
-- 🔧 Actively maintaining open-source projects
-- 📚 Contributing to developer communities
-- 🌟 Exploring advanced security and system design concepts
+- Building tools that are useful, fast, and honest
+- Improving practical engineering skills through real projects
+- Learning more about system design and cloud-native patterns
+- Exploring security, forensics, and automation workflows
 
 ---
 
-## 🎓 Learning Journey
+## 🤝 Connect
 
-- **Backend Development:** Node.js, Express, MongoDB, PostgreSQL
-- **Frontend Mastery:** React, Next.js, Tailwind CSS
-- **DevOps & Cloud:** Docker, GitHub Actions, AWS
-- **System Design:** Scalability, Performance Optimization, Security
-
----
-
-## 📈 How to Connect
-
-I'm always interested in:
-- 💼 Collaboration opportunities
-- 🤝 Open-source contributions
-- 💻 Technical discussions
-- 🎯 Mentoring and being mentored
-
-**Let's build something amazing together!** ✨
+- GitHub: [@SAQIB-SHAMUS](https://github.com/SAQIB-SHAMUS)
+- Open to collaboration, software discussions, and building interesting things
+- If you are working on something useful, I am always interested in a conversation
 
 ---
 
